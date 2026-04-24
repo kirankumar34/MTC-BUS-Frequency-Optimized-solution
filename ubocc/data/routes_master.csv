@@ -1,0 +1,11 @@
+route_id,route_no,route_name,origin,destination,depot_id,distance_km,total_stops,peak_headway_min,offpeak_headway_min,trip_time_min,service_type,daily_trips,daily_passengers_avg
+R001,23C,Broadway - Tambaram (via Guindy Adyar),Broadway Bus Terminus,Tambaram Bus Terminus,TMB,32,42,8,15,90,Ordinary,68,12400
+R002,21G,Broadway - Tambaram (via Marina),Broadway Bus Terminus,Tambaram Bus Terminus,ADR,28,38,10,18,80,Ordinary,52,9800
+R003,47B,Besant Nagar - Villivakkam (via Adyar T Nagar),Besant Nagar Bus Stop,Villivakkam Bus Terminus,TNG,24,31,12,20,70,Ordinary,44,7200
+R004,19B,Adyar Bus Stand - Sholinganallur,Adyar Bus Stand,Sholinganallur Bus Stop,ADR,14,18,10,15,45,Ordinary,60,8600
+R005,5,Guindy - T Nagar (Panagal Park),Guindy Bus Stop,Panagal Park T Nagar,GND,9,12,8,12,30,Ordinary,80,6400
+R006,29C,Central - Velachery (via Saidapet),Chennai Central Bus Stop,Velachery Bus Terminus,SPD,20,26,10,18,55,Ordinary,58,7800
+R007,70,Broadway - Tambaram (via Poonamallee High Road),Broadway Bus Terminus,Tambaram Bus Terminus,TMB,35,45,12,20,95,Express,36,5200
+R008,M15,Mylapore - Tambaram East (via Velachery),Mylapore Bus Stop,Tambaram East Bus Stop,TMB,22,28,15,25,65,Ordinary,40,4600
+R009,27A,CMBT - Adyar (via T Nagar Saidapet),Koyambedu CMBT,Adyar Bus Stand,AND,22,28,10,15,60,Ordinary,56,8200
+R010,9,Thiruvotriyur - Broadway,Thiruvotriyur Bus Terminus,Broadway Bus Terminus,PRB,28,35,15,25,75,Ordinary,36,4800

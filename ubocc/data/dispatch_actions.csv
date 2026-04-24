@@ -1,0 +1,5 @@
+action_id,timestamp,trigger_type,trigger_description,route_id,recommendation,officer_id,officer_name,status,depot_assigned,buses_requested,buses_dispatched,estimated_impact_min,actual_impact_min
+DA001,2025-04-25 17:45,AI_Prediction,Bus bunching detected on 23C near Guindy,R001,Hold MTC-2303 at Saidapet for 8 minutes to restore 10-min headway,OFF001,Karthik Kumar,approved,GND,0,0,8,7
+DA002,2025-04-25 18:15,Event_Alert,IPL match crowd surge predicted at Chepauk,R002,Deploy 3 additional buses on 21G from Adyar Depot,OFF001,Karthik Kumar,approved,ADR,3,3,0,0
+DA003,2025-04-25 18:30,Incident_Report,Waterlogging on Velachery Bypass,R006,Divert Route 29C via Pallikaranai Road alternate,OFF002,Priya Nair,pending,SPD,0,0,15,0
+DA004,2025-04-25 19:00,AI_Prediction,Post-match surge prediction 37505 crowd dispersal,R001,Add 5 buses on 23C from Broadway depot,OFF001,Karthik Kumar,pending,TMB,5,0,0,0
