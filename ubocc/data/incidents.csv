@@ -1,7 +1,0 @@
-incident_id,type,location_name,lat,lng,severity,affected_routes,diversion_suggestion,start_time,estimated_duration_min,status,reporter
-INC001,Road Closure,Anna Salai near LIC Building,13.0641,80.2501,High,23C;29C,Via Nungambakkam High Road then Kodambakkam High Road,2025-04-25 18:45,120,active,Traffic Police
-INC002,Waterlogging,Velachery Bypass near Phoenix Mall,12.9745,80.2150,Medium,29C;M15,Via Pallikaranai Road alternate,2025-04-25 17:30,90,active,GCC Alert
-INC003,Heavy Traffic,Guindy Signal near TIDCO,13.0068,80.2206,Medium,23C;5;29C,No diversion - extend headway,2025-04-25 18:00,60,monitoring,System Detected
-INC004,Bus Bunching,Route 23C near T Nagar Panagal Park,13.0388,80.2323,Low,23C,Hold bus 3 at Saidapet for 8 min,2025-04-25 18:10,30,active,System AI
-INC005,Crowd Surge,Chepauk Stadium Gate Area,13.0622,80.2793,High,23C;21G;9,Deploy extra buses from Adyar Depot on 21G,2025-04-25 22:00,90,predicted,Event Calendar
-INC006,Metro Work,Koyambedu Junction CMRL Phase 2,13.0694,80.1952,Medium,27A;29C,Via Collector Nagar then Thirumangalam Road,2025-04-01 07:00,21600,active,CMRL Notice

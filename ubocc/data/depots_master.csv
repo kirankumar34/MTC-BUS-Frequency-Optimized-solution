@@ -1,8 +1,0 @@
-depot_id,depot_code,depot_name,depot_name_tamil,lat,lng,address,fleet_size,spare_buses,routes_managed,zone_coverage,contact_code
-TMB,TMB,Tambaram Bus Depot,தாம்பரம் பேருந்து நிலையம்,12.9243,80.1020,Tambaram Bus Depot Road Tambaram Chennai 600045,280,42,23C;21G;70;M15,Southern Corridor,044-22260001
-ADR,ADR,Adyar Bus Depot,அடையாறு பேருந்து நிலையம்,13.0044,80.2599,1st Main Road Adyar Chennai 600020,240,36,19B;21G;47B;27A,Adyar-Besant Nagar-OMR,044-24413002
-TNG,TNG,T Nagar Bus Depot,தி.நகர் பேருந்து நிலையம்,13.0372,80.2251,Usman Road T Nagar Chennai 600017,220,33,47B;5;M15,T Nagar-Nungambakkam-Mylapore,044-24340003
-GND,GND,Guindy Bus Depot,கிண்டி பேருந்து நிலையம்,13.0054,80.2167,GST Road Guindy Chennai 600032,200,30,5;23C;29C,Guindy-Saidapet-Airport,044-22500004
-SPD,SPD,Saidapet Bus Depot,சைதாப்பேட்டை பேருந்து நிலையம்,13.0232,80.2177,Saidapet Bus Depot Saidapet Chennai 600015,180,27,29C;5;27A,Saidapet-Velachery-Nanganallur,044-24353005
-AND,AND,Anna Nagar Bus Depot,அண்ணா நகர் பேருந்து நிலையம்,13.0877,80.2100,Anna Nagar West Chennai 600040,200,30,27A;29C,Anna Nagar-Mogappair-Koyambedu,044-26151006
-PRB,PRB,Perambur Bus Depot,பெரம்பூர் பேருந்து நிலையம்,13.1179,80.2452,Perambur High Road Chennai 600011,160,24,9,North Chennai-Tondiarpet,044-25313007
